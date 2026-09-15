@@ -1,10 +1,10 @@
 streamlit
 pandas
-numpy
+numpy<2.0.0
 scikit-learn
-tensorflow
+tensorflow-cpu
 shap
-fpdf
+fpdf2
 plotly
 matplotlib
 opencv-python-headless
