@@ -28,12 +28,16 @@ An academic machine-learning project developed to explore cancer prediction usin
 3. The trained machine-learning model generates a prediction.
 4. Results and visualizations are displayed through the web interface.
 
-Project Purpose
+##Project Purpose
+
 This project was developed as an academic project to gain practical experience in Python, machine learning, data processing, model prediction, visualization, and interactive web application development.
 
-Disclaimer
-This project is intended for academic and educational purposes only. It has not been clinically validated and should not be used for medical diagnosis or treatment decisions.
+##Disclaimer
+
+*This project is intended for academic and educational purposes only. It has not been clinically validated and should not be used for medical diagnosis or treatment decisions.*
 
 Author
-Farzeen Ahamed T S
+
+**Farzeen Ahamed T S**
+
 Computer Science Engineering Student
